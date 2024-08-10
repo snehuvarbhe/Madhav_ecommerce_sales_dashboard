@@ -16,17 +16,13 @@ Sales dashboards are essential for:
 - Enhancing decision-making through actionable insights.
 - Streamlining operations and improving sales performance.
 
-## Data Workflow
-1. **Data Import**: Sales data from Madhav's online platform was imported into SQL to simulate a real-world scenario.
-2. **Data Processing**: SQL was used for data cleaning and transformation to ensure data accuracy and relevance.
-3. **Dashboard Creation**: The processed data was imported into Power BI, where interactive dashboards were created to visualize sales data effectively.
+## Data Creation
+The dataset was imported into Power BI, where interactive dashboards were created to visualize sales data effectively.
 
 ## Tech Stack
-- Language: SQL
-- Tools: Power BI, SQL
+- Tools: Power BI
 
 ## Approach
-- Data Cleaning and Preparation: Ensured data integrity using SQL to process and refine the imported sales data.
 - Data Visualization: Developed interactive Power BI dashboards that offer real-time insights into Madhav's online sales performance.
 - Analysis and Reporting: Focused on visualizing sales trends and customer behavior to support strategic business decisions.
 
@@ -50,7 +46,7 @@ Sales dashboards are essential for:
 - Product performance comparison over time.
 
 ## Conclusion
-The "Madhav Ecommerce Sales Dashboard" project provides a powerful tool for tracking and analyzing online sales performance. By leveraging SQL and Power BI, the dashboard delivers actionable insights that empower Madhav's team to make informed decisions, optimize operations, and drive business growth.
+The "Madhav Ecommerce Sales Dashboard" project provides a powerful tool for tracking and analyzing online sales performance. By leveraging Power BI, the dashboard delivers actionable insights that empower Madhav's team to make informed decisions, optimize operations, and drive business growth.
 
 ## Access the Dashboard
 You can view the dashboard and explore the insights by following this link.
