@@ -54,4 +54,4 @@ The "Madhav Ecommerce Sales Dashboard" project provides a powerful tool for trac
 
 ## Access the Dashboard
 You can view the dashboard and explore the insights by following this link.
-[[Insert Dashboard Link Here]](https://app.powerbi.com/groups/me/reports/27701e61-f0d3-47b2-a91b-55ed483db945/727e520ff6a9ffc8092c?experience=power-bi)
+[[Madhav Ecommerce Sales Dashboard]](https://app.powerbi.com/groups/me/reports/27701e61-f0d3-47b2-a91b-55ed483db945/727e520ff6a9ffc8092c?experience=power-bi)
